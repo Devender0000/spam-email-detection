@@ -18,8 +18,8 @@ This project focuses on detecting spam emails using machine learning techniques.
 - Best AUC-ROC: 0.985
 
 ## Dataset
-SMS Spam Collection Dataset
+ Spam Collection Dataset
 
 ## Author
--Devender Reddy Peddi
--Abhiram Ayyananagari
+- Devender Reddy Peddi
+- Abhiram Ayyananagari
