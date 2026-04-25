@@ -21,5 +21,5 @@ This project focuses on detecting spam emails using machine learning techniques.
 SMS Spam Collection Dataset
 
 ## Author
-Devender Reddy Peddi
-Abhiram Ayyananagari
+-Devender Reddy Peddi
+-Abhiram Ayyananagari
