@@ -1,8 +1,5 @@
 # Spam Email Detection using Machine Learning
 
-## Overview
-This project focuses on detecting spam emails using machine learning techniques.
-
 ## Models Used
 - Logistic Regression
 - Support Vector Machine (SVM)
@@ -20,6 +17,6 @@ This project focuses on detecting spam emails using machine learning techniques.
 ## Dataset
  Spam Collection Dataset
 
-## Author
+## Team Members
 - Devender Reddy Peddi
 - Abhiram Ayyananagari
